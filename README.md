@@ -1,4 +1,4 @@
-| [logo]()
+![logo](https://github.com/Sumeet87-cyber/Sumeet87-cyber/blob/main/Orange%20and%20Black%20Modern%20Cyber%20Security%20Video.jpg)
 <h1 align="center">Hi 👋, I'm Sumeet Singh</h1>
 <h3 align="center">A passionate Cyber-Security Analyst from India</h3>
 
